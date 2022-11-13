@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÖ’øÿÿÿÿ
+¡
+java:S1128"ŠRemove this unused import 'org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerAutoConfiguration'.(³ÃÔ
+t
+java:S1128
+"^Remove this unused import 'org.springframework.security.oauth2.client.OAuth2AuthorizedClient'.(êÒ¢
